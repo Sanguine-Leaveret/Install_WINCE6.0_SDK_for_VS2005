@@ -26,5 +26,5 @@
 ## 7. Windows Embedded CE 6.0 R2
 - 다운로드 링크 **http://www.microsoft.com/downloads/details.aspx?FamilyId=F41FC7C1-F0F4-4FD6-9366-B61E0AB59565&displaylang=en**
 
-## 7. Windows Embedded CE 6.0 R3
+## 8. Windows Embedded CE 6.0 R3
 - 다운로드 링크 **http://www.microsoft.com/downloads/details.aspx?FamilyID=BC247D88-DDB6-4D4A-A595-8EEE3556FE46&amp;displaylang=ja&displaylang=en**
