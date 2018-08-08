@@ -19,6 +19,7 @@
 - 다운로드 링크 **http://download.microsoft.com/download/a/0/9/a09e587c-4ff9-4a58-a854-56fe50b862b2/[file_name]**
 - downloader.py를 사용하면 전체 파일 다운 가능
 - Windows Embedded CE 6.0.msi를 관리자 권한으로 실행해야 된다.(안할시 오류창 뜸)
+- Product Key: H8RQR-MMKRP-XFRFC-9HKGJ-82R6J
 
 ## 6. Windows Embedded CE 6.0 Platform Builder Service Pack 1
 - 다운로드 링크 **http://www.microsoft.com/downloads/details.aspx?FamilyId=BF0DC0E3-8575-4860-A8E3-290ADF242678&displaylang=en**
